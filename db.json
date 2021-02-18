@@ -1,1 +1,1 @@
-{ "employees" : [ {"firstname" : "John", "lastname" : "Doe1"}, {"firstname" : "John", "lastname" : "Doe2"}, {"firstname" : "John", "lastname" : "Doe3"}, ]} 
+{ "employees": [{ "firstName": "John", "lastName": "Doe" }, { "firstName": "Anna", "lastName": "Smith" }, { "firstName": "Peter", "lastName": "Jones" } ] } 
